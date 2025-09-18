@@ -1,0 +1,13 @@
+body{
+    padding: 0px;
+    background-color: #111827;
+    font-family:inter ;
+}
+
+
+.inter-body {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}

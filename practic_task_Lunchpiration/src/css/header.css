@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 120px 0px 120px;
+    align-items: center;
+}
+
+.center_element a{
+    text-decoration: none;
+    color:white;
+    margin:0px 10px 0px 10px;
+}
+.right_element button{
+    color: white;
+    border:none;
+    
+    width: 85;
+    height: 41;
+    top: 40px;
+    left: 1128px;
+    angle: 0 deg;
+    opacity: 1;
+    border-radius: 5px;
+    padding-top: 12px;
+    padding-right: 24px;
+    padding-bottom: 12px;
+    padding-left: 24px;
+    gap: 10px;
+
+}
