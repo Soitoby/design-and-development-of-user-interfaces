@@ -1,0 +1,37 @@
+.text_galeries p {
+    color:white;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 36px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+}
+
+.text_galeries a{
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #0078FF;
+    text-decoration: none;
+}
+
+.galeries{
+    margin: 0px 120px 0px 120px;
+}
+.text_galeries{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.slider{
+    display:flex;
+}
+.slider img{
+    padding:0px 20px 0px 0px;
+}
